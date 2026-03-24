@@ -8,7 +8,7 @@
 <b>Engenheiro de Software em Formação | Foco em Back-end & Algoritmos</b>
 </p>
 <p align="justify">
-Graduando pela PUC Minas e Coordenador no programa de mentoria para calouros. Atualmente, foco no aprimoramento técnico em Python e C/C++, com ênfase no estudo de algoritmos, estruturas de dados e automação. Busco minha primeira oportunidade de estágio para contribuir em projetos reais e evoluir como desenvolvedor Back-end.
+Graduando pela PUC Minas e Coordenador no programa de mentoria para calouros. Atualmente, foco no aprimoramento técnico em Python e C/C++, com ênfase no estudo de algoritmos, estruturas de dados e automação. Busco contribuir em projetos reais e evoluir como desenvolvedor Back-end.
 </p>
 
 ## 🖥 Tecnologias e Ferramentas
