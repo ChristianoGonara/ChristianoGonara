@@ -45,7 +45,7 @@ Graduando pela PUC Minas e Coordenador no programa de mentoria para calouros. At
 
 - 🎭 **Artes:** Praticante de Teatro e entusiasta de História Geral.
 - 📚 **Leituras Técnicas:** *Entendendo Algoritmos, O Programador Pragmático, O Mítico Homem-Mês e A Única Coisa.*
-- 🏛 **Literatura e Cultura:** Leitor de clássicos como Dostoievski e George Orwell, além de acompanhar o mangá *Kingdom*.
+- 🏛 **Literatura e Cultura:** Leitor de clássicos como Dostoievski e Tolstói, além de acompanhar o mangá *Kingdom*.
 
 <div align="center">
 <table>
@@ -54,7 +54,6 @@ Graduando pela PUC Minas e Coordenador no programa de mentoria para calouros. At
     <td align="center"><p><b>Pragmático</b></p><img src="https://m.media-amazon.com/images/I/41-S9vthI3L.jpg" width="100"/></td>
     <td align="center"><p><b>Mítico Homem</b></p><img src="https://m.media-amazon.com/images/I/81m69X2WpFL.jpg" width="100"/></td>
     <td align="center"><p><b>A Única Coisa</b></p><img src="https://m.media-amazon.com/images/I/71Xm8C66XhL.jpg" width="100"/></td>
-    <td align="center"><p><b>Kingdom</b></p><img src="https://m.media-amazon.com/images/I/91fSj4L6Z8L.jpg" width="100"/></td>
   </tr>
 </table>
 </div>
