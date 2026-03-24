@@ -50,11 +50,22 @@ Graduando pela PUC Minas e Coordenador no programa de mentoria para calouros. At
 <div align="center">
 <table>
   <tr>
-    <td align="center"><p><b>Algoritmos</b></p><img src="https://m.media-amazon.com/images/P/B077S2S8CD.01._SCLZZZZZZZ_SX500_.jpg" width="110"/></td>
-    <td align="center"><p><b>Pragmático</b></p><img src="https://m.media-amazon.com/images/P/B085PPN9C5.01._SCLZZZZZZZ_SX500_.jpg" width="110"/></td>
-    <td align="center"><p><b>Mítico Homem</b></p><img src="https://m.media-amazon.com/images/P/B00005OT64.01._SCLZZZZZZZ_SX500_.jpg" width="110"/></td>
-    <td align="center"><p><b>A Única Coisa</b></p><img src="https://m.media-amazon.com/images/P/B00C0X6M36.01._SCLZZZZZZZ_SX500_.jpg" width="110"/></td>
-    <td align="center"><p><b>Orwell</b></p><img src="https://m.media-amazon.com/images/P/B0096LAV5Q.01._SCLZZZZZZZ_SX500_.jpg" width="110"/></td>
+    <td align="center">
+      <p><b>Entendendo Algoritmos</b></p>
+      <img src="https://m.media-amazon.com/images/I/81shshv-U2L.jpg" width="120"/>
+    </td>
+    <td align="center">
+      <p><b>O Programador Pragmático</b></p>
+      <img src="https://m.media-amazon.com/images/I/41-S9vthI3L.jpg" width="120"/>
+    </td>
+    <td align="center">
+      <p><b>O Mítico Homem-Mês</b></p>
+      <img src="https://m.media-amazon.com/images/I/81m69X2WpFL.jpg" width="120"/>
+    </td>
+    <td align="center">
+      <p><b>A Única Coisa</b></p>
+      <img src="https://m.media-amazon.com/images/I/71Xm8C66XhL.jpg" width="120"/>
+    </td>
   </tr>
 </table>
 </div>
