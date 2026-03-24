@@ -58,11 +58,11 @@ Graduando pela PUC Minas e Coordenador no programa de mentoria para calouros. At
 <a href="mailto:christiano.gonara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://wa.me/5531998909804"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+
+
 <div align="center">
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&center=true&vCenter=true&width=435&lines=//+Obrigado+pela+visita!;//+Volte+sempre!;//+Mantenha+a+mente+focada." alt="Typing SVG" />
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=17f77d&height=120&section=footer"/>
-</div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=17f77d&height=120&section=footer"/>
 </div>
