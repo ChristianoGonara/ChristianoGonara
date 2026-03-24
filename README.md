@@ -48,27 +48,22 @@ Graduando pela PUC Minas e Coordenador no programa de mentoria para calouros. At
 - 🏛 **Literatura e Cultura:** Leitor de clássicos como Dostoievski e George Orwell, além de acompanhar o mangá *Kingdom*.
 
 <div align="center">
-<table>
-<tr>
-<td><p align="center"><b>Algoritmos</b></p><img width="105" src="https://m.media-amazon.com/images/I/81shshv-U2L._AC_UF1000,1000_QL80_.jpg"/></td>
-<td><p align="center"><b>Pragmático</b></p><img width="105" src="https://m.media-amazon.com/images/I/41-S9vthI3L._SY445_SX342_.jpg"/></td>
-<td><p align="center"><b>Mítico Homem</b></p><img width="105" src="https://m.media-amazon.com/images/I/81m69X2WpFL._AC_UF1000,1000_QL80_.jpg"/></td>
-<td><p align="center"><b>Orwell</b></p><img width="105" src="https://m.media-amazon.com/images/I/91BcByS7SUL._AC_UF1000,1000_QL80_.jpg"/></td>
-<td><p align="center"><b>Kingdom</b></p><img width="105" src="https://m.media-amazon.com/images/I/91fSj4L6Z8L._AC_UF1000,1000_QL80_.jpg"/></td>
-</tr>
-</table>
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,git,github,vscode,linux,apple,figma" />
 </div>
 
 ## ☎ Contato
 <div align="center">
-<table>
-<tr>
-<td><a href="https://github.com/ChristianoGonara" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="40"/></a></td>
-<td><a href="https://www.linkedin.com/in/christiano-goncalves-araujo/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/></a></td>
-<td><a href="mailto:christiano.gonara@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="40" height="40"/></a></td>
-<td><a href="https://wa.me/5531998909804" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="40" height="40"/></a></td>
-</tr>
-</table>
+<a href="https://github.com/ChristianoGonara"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/christiano-goncalves-araujo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:christiano.gonara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://wa.me/5531998909804"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
+
+<div align="center">
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&center=true&vCenter=true&width=435&lines=//+Foi+um+prazer+ter+você+por+aqui!;//+Volte+sempre!;//+Mantenha+a+mente+focada." alt="Typing SVG" />
+<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=17f77d&height=120&section=footer"/>
 </div>
 
 <div align="center">
