@@ -52,19 +52,19 @@ Graduando pela PUC Minas e Coordenador no programa de mentoria para calouros. At
   <tr>
     <td align="center">
       <p><b>Entendendo Algoritmos</b></p>
-      <img src="https://m.media-amazon.com/images/I/81shshv-U2L.jpg" width="120"/>
+      <img src="imgs/entendendo.jpg" width="120"/>
     </td>
     <td align="center">
       <p><b>O Programador Pragmático</b></p>
-      <img src="https://m.media-amazon.com/images/I/41-S9vthI3L.jpg" width="120"/>
+      <img src="imgs/ppragmatico.jpg" width="120"/>
     </td>
     <td align="center">
       <p><b>O Mítico Homem-Mês</b></p>
-      <img src="https://www.google.com/imgres?q=o%20mitico%20homem%20mes&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F91aBY8P32fL._AC_UF1000%2C1000_QL80_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com.br%2FM%25C3%25ADtico-Homem-M%25C3%25AAs-V%25C3%25A1rios-Autores%2Fdp%2F853523487X&docid=N7nP6ysDBmLUMM&tbnid=tg92rk0cythGZM&vet=12ahUKEwj_iJWM0sCTAxVFppUCHfbVFLUQnPAOegQIExAB..i&w=705&h=1000&hcb=2&ved=2ahUKEwj_iJWM0sCTAxVFppUCHfbVFLUQnPAOegQIExAB" width="120"/>
+      <img src="imgs/mitico.jpg" width="120"/>
     </td>
     <td align="center">
       <p><b>A Única Coisa</b></p>
-      <img src="https://m.media-amazon.com/images/I/71Xm8C66XhL.jpg" width="120"/>
+      <img src="imgs/unicacoisa.webp" width="120"/>
     </td>
   </tr>
 </table>
