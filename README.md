@@ -71,13 +71,42 @@ Graduando pela PUC Minas e Coordenador no programa de mentoria para calouros. At
 </div>
 
 ## ☎ Contato
+
+<!--contatos-->
 <div align="center">
+<table>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/ChristianoGonara" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/github4.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="mailto:christiano.gonara@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://wa.me/5531998909804" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="www.linkedin.com/in/christiano-goncalves-araujo" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+ 
+<!--<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+ 
+ -->
+</tr>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr>
+</table>
+</div>
+
+
+<!--<div align="center">
 <a href="https://github.com/ChristianoGonara"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/christiano-goncalves-araujo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:christiano.gonara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://wa.me/5531998909804"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
-
+-->
 
 <div align="center">
 <br>
