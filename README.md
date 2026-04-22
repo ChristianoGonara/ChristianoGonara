@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=17F77D&height=120&section=header"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=17F77D&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Christiano+Araujo;Seja+bem+vindo+ao+meu+perfil;Estudante+de+Engenharia+de+Software+na+PUC+Minas">
+<img src="https://readme-typing-svg.herokuapp.com/?color=17F77D&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Christiano+Gonara;Seja+bem+vindo+ao+meu+perfil;Estudante+de+Engenharia+de+Software+na+PUC+Minas">
 </p>
 
 <p align="center">
