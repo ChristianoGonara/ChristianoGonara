@@ -21,15 +21,15 @@ Graduando pela PUC Minas e Coordenador no programa de mentoria para calouros. At
 <table>
 <tr>
 <td>
-<img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChristianoGonara&theme=dark"/>
+<img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=christiano-gonara&theme=dark"/>
 </td>
 <td>
-<img alt="GitHub Commits" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChristianoGonara&theme=github_dark"/>
+<img alt="GitHub Commits" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christiano-gonara&theme=github_dark"/>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=ChristianoGonara&color=17F77D"/>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=christiano-gonara&color=17F77D"/>
 </td>
  </tr>
 </table>
@@ -79,13 +79,13 @@ Graduando pela PUC Minas e Coordenador no programa de mentoria para calouros. At
  <td align="center" colspan="11"></td>
 </tr>
 <tr>
-<td><a href="https://github.com/ChristianoGonara" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/github4.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/christiano-gonara" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/github4.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:christiano.gonara@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5531998909804" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/christiano-goncalves-araujo" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/christiano-gonara" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
  
 <!--<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
