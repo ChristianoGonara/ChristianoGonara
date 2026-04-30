@@ -1,21 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=17F77D&height=120&section=header"/>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=17F77D&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Christiano+Gonara;Seja+bem+vindo+ao+meu+perfil;Estudante+de+Engenharia+de+Software+na+PUC+Minas">
 </p>
-
 <p align="center">
-<b>Engenheiro de Software em Formação | Foco em Back-end & Algoritmos</b>
+<b>Estudante de Engenharia de Software | Python, C & JavaScript</b>
 </p>
 <p align="justify">
-Graduando pela PUC Minas e Coordenador no programa de mentoria para calouros. Atualmente, foco no aprimoramento técnico em Python e C/C++, com ênfase no estudo de algoritmos, estruturas de dados e automação. Busco contribuir em projetos reais e evoluir como desenvolvedor Back-end.
+Graduando pela PUC Minas com projetos práticos em Python, C e JavaScript. Coordenador de mentoria acadêmica gerenciando 50 mentores. Foco em algoritmos, automação e desenvolvimento backend.
 </p>
-
 ## 🖥 Tecnologias e Ferramentas
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,git,github,vscode,linux,windows,apple,figma">
+<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,git,github,vscode,linux,windows">
 </p>
-
 ## ⏱ Minhas métricas
 <div align="center">
 <table>
@@ -34,19 +30,19 @@ Graduando pela PUC Minas e Coordenador no programa de mentoria para calouros. At
  </tr>
 </table>
 </div>
-
 ## 🚀 Sobre Mim
 - 🎓 **Educação:** Engenharia de Software na PUC Minas.
-- 👥 **Liderança & Soft Skills:** Atuação como Coordenador de Mentoria, com foco em gestão de demandas, organização de equipes e suporte a novos alunos.
-- 🐍 **Foco Técnico:** Aprimoramento em Python (Back-end), estudo aprofundado de Algoritmos e Automação de Processos.
-
+- 👥 **Liderança:** Coordenador de Mentoria Acadêmica — gestão de 50 mentores para suporte de 160 calouros.
+- 🐍 **Python:** Web scraping com Scrapy, análise de dados com Pandas e automação de processos.
+- 🔧 **C:** Sistema de gestão hoteleira com CRUD completo, persistência em arquivos binários e testes automatizados com Munit.
+- ⚙️ **JavaScript:** Dashboard industrial de KPIs com Chart.js e interface responsiva com Bootstrap.
+- 📐 **Foco Técnico:** Algoritmos, estruturas de dados e desenvolvimento backend.
 ## 📖 Hobbies & Repertório Cultural
 *Busco constantemente expandir meus horizontes através da leitura e das artes, conectando conceitos técnicos com visões de mundo diversificadas.*
-
+ 
 - 🎭 **Artes:** Praticante de Teatro e entusiasta de História Geral.
 - 📚 **Leituras Técnicas:** *Entendendo Algoritmos, O Programador Pragmático, O Mítico Homem-Mês e A Única Coisa.*
 - 🏛 **Literatura e Cultura:** Leitor de clássicos como Dostoievski e Tolstói, além de acompanhar o mangá *Kingdom*.
-
 <div align="center">
 <table>
   <tr>
@@ -69,10 +65,8 @@ Graduando pela PUC Minas e Coordenador no programa de mentoria para calouros. At
   </tr>
 </table>
 </div>
-
 ## ☎ Contato
-
-<!--contatos-->
+ 
 <div align="center">
 <table>
 <tr>
@@ -87,27 +81,12 @@ Graduando pela PUC Minas e Coordenador no programa de mentoria para calouros. At
 </td>
 <td><a href="https://www.linkedin.com/in/christiano-gonara" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
- 
-<!--<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>
- 
- -->
 </tr>
 <tr>
  <td align="center" colspan="11"></td>
 </tr>
 </table>
 </div>
-
-
-<!--<div align="center">
-<a href="https://github.com/ChristianoGonara"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/christiano-goncalves-araujo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:christiano.gonara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://wa.me/5531998909804"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</div>
--->
-
 <div align="center">
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&center=true&vCenter=true&width=435&lines=//+Obrigado+pela+visita!;//+Volte+sempre!;//+Mantenha+a+mente+focada." alt="Typing SVG" />
