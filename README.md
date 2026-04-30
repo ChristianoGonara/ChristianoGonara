@@ -1,17 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=17F77D&height=120&section=header"/>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=17F77D&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Christiano+Gonara;Seja+bem+vindo+ao+meu+perfil;Estudante+de+Engenharia+de+Software+na+PUC+Minas">
 </p>
+
 <p align="center">
 <b>Estudante de Engenharia de Software | Python, C & JavaScript</b>
 </p>
 <p align="justify">
 Graduando pela PUC Minas com projetos práticos em Python, C e JavaScript. Coordenador de mentoria acadêmica gerenciando 50 mentores. Foco em algoritmos, automação e desenvolvimento backend.
 </p>
+
 ## 🖥 Tecnologias e Ferramentas
 <p align="center">
 <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,git,github,vscode,linux,windows">
 </p>
+
 ## ⏱ Minhas métricas
 <div align="center">
 <table>
@@ -30,6 +34,7 @@ Graduando pela PUC Minas com projetos práticos em Python, C e JavaScript. Coord
  </tr>
 </table>
 </div>
+
 ## 🚀 Sobre Mim
 - 🎓 **Educação:** Engenharia de Software na PUC Minas.
 - 👥 **Liderança:** Coordenador de Mentoria Acadêmica — gestão de 50 mentores para suporte de 160 calouros.
@@ -37,12 +42,14 @@ Graduando pela PUC Minas com projetos práticos em Python, C e JavaScript. Coord
 - 🔧 **C:** Sistema de gestão hoteleira com CRUD completo, persistência em arquivos binários e testes automatizados com Munit.
 - ⚙️ **JavaScript:** Dashboard industrial de KPIs com Chart.js e interface responsiva com Bootstrap.
 - 📐 **Foco Técnico:** Algoritmos, estruturas de dados e desenvolvimento backend.
+
 ## 📖 Hobbies & Repertório Cultural
 *Busco constantemente expandir meus horizontes através da leitura e das artes, conectando conceitos técnicos com visões de mundo diversificadas.*
- 
+
 - 🎭 **Artes:** Praticante de Teatro e entusiasta de História Geral.
 - 📚 **Leituras Técnicas:** *Entendendo Algoritmos, O Programador Pragmático, O Mítico Homem-Mês e A Única Coisa.*
 - 🏛 **Literatura e Cultura:** Leitor de clássicos como Dostoievski e Tolstói, além de acompanhar o mangá *Kingdom*.
+
 <div align="center">
 <table>
   <tr>
@@ -65,8 +72,9 @@ Graduando pela PUC Minas com projetos práticos em Python, C e JavaScript. Coord
   </tr>
 </table>
 </div>
+
 ## ☎ Contato
- 
+
 <div align="center">
 <table>
 <tr>
@@ -87,6 +95,7 @@ Graduando pela PUC Minas com projetos práticos em Python, C e JavaScript. Coord
 </tr>
 </table>
 </div>
+
 <div align="center">
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&center=true&vCenter=true&width=435&lines=//+Obrigado+pela+visita!;//+Volte+sempre!;//+Mantenha+a+mente+focada." alt="Typing SVG" />
