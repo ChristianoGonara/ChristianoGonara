@@ -8,7 +8,7 @@
 <b>Estudante de Engenharia de Software | Python, C & JavaScript</b>
 </p>
 <p align="justify">
-Graduando pela PUC Minas com projetos práticos em Python, C e JavaScript. Coordenador de mentoria acadêmica gerenciando 50 mentores. Foco em algoritmos, automação e desenvolvimento backend.
+Graduando pela PUC Minas com projetos práticos em Python, C e JavaScript. Coordenador de Mentoria Acadêmica gerenciando 50 mentores para suporte de 160 calouros. Foco em algoritmos, automação e desenvolvimento backend.
 </p>
 
 ## 🖥 Tecnologias e Ferramentas
@@ -31,16 +31,16 @@ Graduando pela PUC Minas com projetos práticos em Python, C e JavaScript. Coord
 <td align="center" colspan="2">
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=christiano-gonara&color=17F77D"/>
 </td>
- </tr>
+</tr>
 </table>
 </div>
 
 ## 🚀 Sobre Mim
 - 🎓 **Educação:** Engenharia de Software na PUC Minas.
-- 👥 **Liderança:** Coordenador de Mentoria Acadêmica — gestão de 50 mentores para suporte de 160 calouros.
-- 🐍 **Python:** Web scraping com Scrapy, análise de dados com Pandas e automação de processos.
-- 🔧 **C:** Sistema de gestão hoteleira com CRUD completo, persistência em arquivos binários e testes automatizados com Munit.
-- ⚙️ **JavaScript:** Dashboard industrial de KPIs com Chart.js e interface responsiva com Bootstrap.
+- 👥 **Liderança:** Coordenador de Mentoria Acadêmica — gestão de 50 mentores para suporte de 160 calouros, planejamento de workshops e acompanhamento de engajamento.
+- 🐍 **Python:** Web scraping com Scrapy, análise de dados com Pandas, testes com pytest e automação de processos.
+- 🔧 **C:** Sistema de gestão hoteleira com CRUD completo, persistência em arquivos binários e testes automatizados com Munit. Campo Minado com 4 matrizes independentes de estado, revelação recursiva e interface no terminal.
+- ⚙️ **JavaScript:** Dashboard industrial modularizado (PCP Lite) com menu colapsável, CSS Variables, Promise.all() e autenticação. Portal web com CRUD via REST API, sessionStorage e Chart.js.
 - 📐 **Foco Técnico:** Algoritmos, estruturas de dados e desenvolvimento backend.
 
 ## 📖 Hobbies & Repertório Cultural
